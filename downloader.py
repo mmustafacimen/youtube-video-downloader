@@ -15,6 +15,7 @@ def download_youtube_video(url, output_path='videos'):
             print(f'\nError: {e}')
 
 
-url = 'https://youtu.be/ICfGdpZCE1Q'
+url = 'https://youtu.be/Example'
 
 download_youtube_video(url, output_path='videos')
+
